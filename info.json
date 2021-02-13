@@ -1,6 +1,6 @@
 {
 	"name": "ruvotis-modpack",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"title": "ruvoti's Modpack",
 	"author": "ruvoti",
 	"description": "This is a collection of my favorite / never-play-without mods (so... it's a mod pack). Most (but not all) of them are quality of life mods.",
@@ -29,7 +29,7 @@
 		"?ProgressiveRunning",
 		"RealisticDecorationCleanup",
 		"robot_attrition",
-		"?Shortcuts",
+		"Shortcuts-ick",
 		"Squeak Through",
 		"?Teleporters",
 		"?TimeTools",
